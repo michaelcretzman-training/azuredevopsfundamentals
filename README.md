@@ -1,1 +1,1 @@
-# azuredevopsfundamentals
+# Azure Devops Fundamentals training
